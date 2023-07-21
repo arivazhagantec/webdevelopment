@@ -1,0 +1,25 @@
+/* 
+Specificity
+
+1. inline
+2. id
+3. class
+4. type
+
+*/
+
+
+/* h1 {
+    color: green;
+    text-align: center;
+} */
+
+#id_h1_1, #id_h1_2 {
+    color: gold;
+    text-align: center;
+}
+
+.baz {
+    color: blue;
+    text-align: center;
+}
